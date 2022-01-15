@@ -1,5 +1,5 @@
 # Weather_site
-This web app displays the live weather🌥 data of any place you want to know!🤩. 
+This web app displays the live weather🌥 data of any place you want to know and also deployed on heroku!🤩. 
 
 It is created by using Node.js and Express.js, so you have to install few npm packages.⚡
 1. express

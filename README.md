@@ -11,3 +11,4 @@ The temperature is accessed by using the Open Weather Map API☁ ,which provides
 Here's a link to their website👀: https://openweathermap.org/ 
 
 <img src="https://github.com/swetank-367/Weather_site/blob/main/Weather_Gif.gif" alt="Weather Demo" width="70%">
+updated
